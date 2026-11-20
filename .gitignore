@@ -1,0 +1,5 @@
+tools/
+preview.html
+screenshots/
+__pycache__/
+DEPLOY-NOTES.md
